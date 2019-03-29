@@ -1,0 +1,6 @@
+# exports
+exports/*
+!exports/*.txt
+
+# misc
+*.blend1
